@@ -1,5 +1,4 @@
-# gh-copilot-intro
-introduction to GitHub Copilot
+# Introduction to GitHub Copilot
 
 ## 1. Prerequisites
 
