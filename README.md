@@ -23,6 +23,8 @@ Copilot works alongside you, making suggestions in real-time that you can accept
 
 ## 3. Modes
 
+![available modes](image.png)
+
 GitHub Copilot offers three different modes of interaction to support various development workflows:
 
 ### Ask Mode
