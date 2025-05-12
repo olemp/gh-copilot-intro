@@ -62,7 +62,7 @@ Getting started with GitHub Copilot is straightforward. Here's how to use it eff
 
 ### Installation and Activation
 
-1. Install the GitHub Copilot extension from the VS Code marketplace
+1. Install the [GitHub Copilot extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) from the VS Code marketplace
 2. Sign in with your GitHub account that has an active Copilot license
 3. Once activated, Copilot will start analyzing your code and context
 
